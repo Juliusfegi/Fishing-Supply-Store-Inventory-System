@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# Fishing Supply Store Inventory System 
-=======
-# Fishhing Supply Store Inventory System
+
+# Fishing Supply Store Inventory System
 Inventory & Order Management System
 
 ## Features
